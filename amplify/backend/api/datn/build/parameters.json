@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "datn",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-datn-dev-152912-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/5b045135adfe861987453758d50295ef3cdbfc97"
+}
